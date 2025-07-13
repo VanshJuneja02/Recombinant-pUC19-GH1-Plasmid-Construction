@@ -67,6 +67,28 @@ This repository presents a bioinformatics-based **recombinant DNA project** focu
 | ![NEBcutter Restriction Map](NebCutter%20file%20022560.4.jpg) | Restriction enzyme map of GH1 gene |
 
 ---
+---
+
+## 📜 Certification
+
+This project was completed as part of the **5-day Bioinformatics Internship – Summer Edition (2025)** offered by **Bversity+ Community**.
+
+The internship focused on:
+
+- Molecular cloning techniques  
+- DNA sequence analysis tools  
+- CRISPR-Cas9 gene-editing applications  
+- Guide RNA design & validation  
+
+🗓️ **Duration:** June 16, 2025 – June 20, 2025  
+🎓 **Certificate Holder:** Vansh Juneja  
+📄 **Issued By:** Sudharsan Varatharajan, CEO, Bversity  
+📅 **Issue Date:** June 23, 2025
+
+### 🖼️ Certificate Preview
+
+![Bversity Certification](./certificate.png)
+
 
 ## 📌 Summary
 
